@@ -17,6 +17,6 @@ public class DemoApplication {
 	@GetMapping("/test")
 	public String getData() {
 		System.out.println("hello World");
-		return "Jay Shree ram";
+		return "Jay Shree Krishna";
 	}
 }
